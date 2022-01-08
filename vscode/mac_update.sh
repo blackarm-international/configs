@@ -1,0 +1,1 @@
+cp settings.json ~/Library/Application\ Support/VSCodium/User
