@@ -5,12 +5,13 @@
     "editor.renderWhitespace": "all",
     "editor.wordWrap": "on",
     "editor.insertSpaces": true,
-    "editor.fontSize": 30,
+    "editor.fontSize": 20,
     "editor.detectIndentation": false,
     "editor.acceptSuggestionOnCommitCharacter": false,
     "diffEditor.ignoreTrimWhitespace": false,
     "diffEditor.wordWrap": "on",
     "html.format.wrapAttributes": "force",
     "workbench.settings.editor": "json",
-    "security.workspace.trust.untrustedFiles": "open"
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.zoomLevel": 4
   }
