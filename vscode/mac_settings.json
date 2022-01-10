@@ -11,8 +11,6 @@
   "diffEditor.ignoreTrimWhitespace": false,
   "diffEditor.wordWrap": "on",
   "html.format.wrapAttributes": "force",
-  "workbench.preferredDarkColorTheme": "Tomorrow Night Blue",
-  "workbench.colorTheme": "Simple Dark",
   "workbench.settings.editor": "json",
-  "security.workspace.trust.untrustedFiles": "open",
+  "security.workspace.trust.untrustedFiles": "open"
 }
