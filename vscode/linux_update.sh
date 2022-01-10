@@ -1,0 +1,1 @@
+cp linux_settings.json ~/.config/VSCodium/User/settings.json

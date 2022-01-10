@@ -1,0 +1,16 @@
+{
+    "editor.tabSize": 2,
+    "editor.rulers": [100],
+    "editor.wordWrapColumn": 100,
+    "editor.renderWhitespace": "all",
+    "editor.wordWrap": "on",
+    "editor.insertSpaces": true,
+    "editor.fontSize": 30,
+    "editor.detectIndentation": false,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "diffEditor.wordWrap": "on",
+    "html.format.wrapAttributes": "force",
+    "workbench.settings.editor": "json",
+    "security.workspace.trust.untrustedFiles": "open"
+  }
