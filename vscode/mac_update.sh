@@ -1,1 +1,1 @@
-cp settings.json ~/Library/Application\ Support/VSCodium/User
+cp mac_settings.json ~/Library/Application\ Support/VSCodium/User/settings.json
